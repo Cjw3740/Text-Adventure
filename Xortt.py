@@ -17,6 +17,6 @@ __  __          _   _   \n\
 
 
 #MAIN GAME LOOP
-
-while not exit:
-  pass
+save_exit = False
+while not save_exit:
+  cmd = input("What would you like to do?   ").lower()
