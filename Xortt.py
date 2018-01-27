@@ -32,7 +32,7 @@ class area():
 
 class crashedShip(area):
     def __init__(self):
-        self.directions = {"north":"To the north is a dense forrest",:"south":"To the south is the debit trail left by your ship.":"east":"To the east is a dense forrest.","west":"To the west is a dense forrest.","around":"Your ship is badly damaged. Aside from the debris trail tot he south you are surrounded by dense woods. Based on past expiriences it would be unwise to venture into the woods on an alien world","up":"Above you is the sky","down":"Below you is... dirt"}
+        self.directions = {"north":"To the north is a dense forrest","south":"To the south is the debris trail left by your ship.":"east":"To the east is a dense forrest.","west":"To the west is a dense forrest.","around":"Your ship is badly damaged. Aside from the debris trail tot he south you are surrounded by dense woods. Based on past expiriences it would be unwise to venture into the woods on an alien world","up":"Above you is the sky","down":"Below you is... dirt"}
 
 
 
